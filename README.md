@@ -65,7 +65,7 @@ src/
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/NextAI-Gen/portfolio-website.git
 
 
 
