@@ -65,7 +65,7 @@ src/
 
 1. Clone the repository
 
-git clone https://github.com/NextAI-Gen/portfolio-website.git
+git clone https://github.com/NextAI-Gen/Ankit-portfolio-site
 
 
 
@@ -114,6 +114,4 @@ To customize this portfolio for your own use:
 3. Modify the resume timeline with your own experience
 4. Update contact information in the ContactSection
 
-## License
 
-[MIT License](LICENSE)
